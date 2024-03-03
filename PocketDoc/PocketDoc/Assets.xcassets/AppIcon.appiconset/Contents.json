@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "Screenshot 2024-03-03 at 5.14.05 AM.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
